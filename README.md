@@ -5,7 +5,7 @@ This project is about Swecha, a non-profit organization dedicated to promoting f
 To get started with this project, you can clone the repository to your local machine using the following command:
 
 # Copy
-git clone https://github.com/your-username/swecha-project.git
+git clone https://github.com/thanmaya1/swecha-project.git
 You will need to have Git installed on your system to use this command.
 
 # Project Details
@@ -30,4 +30,4 @@ The Swecha website and related projects are licensed under the GNU General Publi
 
 # Contact
 If you have any questions or concerns about this project, please contact the project owner at thanmayagarimella@gmail.com.
-If you have any questions or concerns about this project, please contact the project owner at your-email@example.com.
+
